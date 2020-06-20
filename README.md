@@ -1,2 +1,3 @@
-# Book-Review
-CS50 WEB 2nd Project of a Web App for Book Review
+# Project 1
+
+Web Programming with Python and JavaScript
